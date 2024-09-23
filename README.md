@@ -80,3 +80,7 @@ tar. Эмулятор должен работать в режиме CLI.
 
  Скрины с использованием различных программ:
 ![image](https://github.com/user-attachments/assets/0cf4b122-5cb9-47bf-8910-1edf0edb5e10)
+
+Запуск файла с тестами команд:
+![image](https://github.com/user-attachments/assets/21609262-9f25-49db-8dab-d934b488869c)
+
