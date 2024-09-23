@@ -78,3 +78,5 @@ tar. Эмулятор должен работать в режиме CLI.
 Для начала, чтобы запустить эмулятор, надо находиться в директории с эмуляором и прописать команду:
 ![image](https://github.com/user-attachments/assets/f6e67213-4634-4448-a978-e9bdec2fbb6a)
 
+ Скрины с использованием различных программ:
+![image](https://github.com/user-attachments/assets/0cf4b122-5cb9-47bf-8910-1edf0edb5e10)
