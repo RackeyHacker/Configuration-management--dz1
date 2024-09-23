@@ -76,4 +76,5 @@ tar. Эмулятор должен работать в режиме CLI.
 4)Тесты команд
 
 Для начала, чтобы запустить эмулятор, надо находиться в директории с эмуляором и прописать команду:
-![image](https://github.com/user-attachments/assets/63cff962-5351-49da-9c85-06feb4117099)
+![image](https://github.com/user-attachments/assets/f6e67213-4634-4448-a978-e9bdec2fbb6a)
+
